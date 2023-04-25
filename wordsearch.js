@@ -43,3 +43,5 @@ const transpose = function(matrix) {
   }
   return newArray;
 };
+
+// pair-programmed with Sethu and Haijoon
